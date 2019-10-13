@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\animator\\click_enter.xml",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\animator\\click_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\animator\\back_exit.xml",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\animator\\back_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\animator\\click_exit.xml",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\animator\\click_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\animator\\back_enter.xml",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\animator\\back_enter.xml"
+    }
+]

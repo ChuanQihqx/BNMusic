@@ -1,0 +1,494 @@
+[
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_lastplay_l1.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_lastplay_l1.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_prev_default_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_prev_default_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_player_play_default.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\ic_player_play_default.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_menu_pressed.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_menu_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\localmusic_random_l1.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\localmusic_random_l1.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loading_7.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\loading_7.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_playing_seekbar_thumb_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\ic_playing_seekbar_thumb_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_random_default.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_random_default.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\web_error.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\web_error.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_prev_pressed_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_prev_pressed_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\listview_row.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\listview_row.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_play_l2.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_play_l2.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_progress_buffering_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_progress_buffering_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_random_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_random_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_lyric_collapse_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_lyric_collapse_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_sequence_default.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_sequence_default.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_title_menu_on_checked.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\ic_title_menu_on_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\search_l2.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\search_l2.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loading_6.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\loading_6.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_repeat_all_press_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_repeat_all_press_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_title_back_l.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_title_back_l.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_musiclibrary.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_musiclibrary.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\audio_item_icon_local_default.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\audio_item_icon_local_default.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_play_l1.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_play_l1.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_playing_bar_play_default.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\ic_playing_bar_play_default.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_thumb_press_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_thumb_press_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_line_horizontal.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_line_horizontal.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_ip.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_ip.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\playback_playmode_repeat_all_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\playback_playmode_repeat_all_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\scan_phone.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\scan_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_title_menu_scan.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\ic_title_menu_scan.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_title_menu_singer.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\ic_title_menu_singer.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_check_on_pressed.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\btn_check_on_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\login_btn_bg.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\login_btn_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\mv_vol_seekbar_progress_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\mv_vol_seekbar_progress_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_pause_default_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_pause_default_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\create_playlist.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\create_playlist.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_title_menu_match.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\ic_title_menu_match.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_title_search_l.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_title_search_l.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_beijing_back_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_beijing_back_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_liked_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_liked_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_play_default_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_play_default_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_ilove_l2.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_ilove_l2.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_zuoxia_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_zuoxia_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_musicman.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_musicman.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_single_pressed.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_single_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_play_pressed_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_play_pressed_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\scan_prepare.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\scan_prepare.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_pause_pressed_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_pause_pressed_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_check_on_default.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\btn_check_on_default.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loading_4.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\loading_4.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_search.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_search.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\search_background.9.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\search_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_single_default.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_single_default.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_lyric_expand_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_lyric_expand_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_beijing_xiamian_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_beijing_xiamian_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\localmusic_random_l2.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\localmusic_random_l2.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_menu_default.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_menu_default.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\webmusic_download.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\webmusic_download.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_progress_bg_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_progress_bg_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\scan_scanning_inner.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\scan_scanning_inner.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\playber_repeat_single_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\playber_repeat_single_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_sequence_pressed.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_sequence_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_lastplay_l2.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_lastplay_l2.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_playing_seekbar_thumb_press_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\ic_playing_seekbar_thumb_press_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_selectskin_l1.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_selectskin_l1.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_player_pause_default.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\ic_player_pause_default.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loading_2.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\loading_2.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_next_default_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_next_default_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_back_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_back_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_title_ok_l.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_title_ok_l.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_player_next_default.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\ic_player_next_default.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\scan_scaning_outer.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\scan_scaning_outer.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\audio_item_icon_pressed.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\audio_item_icon_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_sequence_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_sequence_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_musicgame.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_musicgame.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_download_l2.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_download_l2.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_random_pressed.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_random_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\menu_exit_default.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\menu_exit_default.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loading_1.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\loading_1.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loading_3.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\loading_3.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_current_playlist_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_current_playlist_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_seekbar_beijing_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_seekbar_beijing_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_musicmore.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_musicmore.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_progress_playing_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_progress_playing_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\login_input_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\login_input_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\sleepmode_seekbar_background_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\sleepmode_seekbar_background_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_musicmv.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_musicmv.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_musicnear.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_musicnear.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_mylist_l2.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_mylist_l2.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_like_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_like_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_playing_bar_next_pressed.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\ic_playing_bar_next_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_line_vertical.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_line_vertical.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_repeart_all_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_repeart_all_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_title_edit_l.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_title_edit_l.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\scan_over_icon.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\scan_over_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\scan_exit.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\scan_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\localmusic_edit_l2.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\localmusic_edit_l2.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loading_5.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\loading_5.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\localmusic_edit_l1.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\localmusic_edit_l1.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\search_l1.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\search_l1.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_kugou_l.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_kugou_l.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_playing_bar_next_default.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\ic_playing_bar_next_default.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_mylist_l1.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_mylist_l1.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_menu_share_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_menu_share_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_title_close_l.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_title_close_l.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_check_off_pressed.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\btn_check_off_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_ilove_l1.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_ilove_l1.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\skin_ceshi.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\skin_ceshi.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\scan_scaning_b.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\scan_scaning_b.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_selectskin_l2.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_selectskin_l2.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_playlist_delete_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_playlist_delete_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\login_btn_bg_selected.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\login_btn_bg_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_download_l1.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_download_l1.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_next_pressed_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_next_pressed_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_title_menu_l.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\main_title_menu_l.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\scan_all.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\scan_all.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_check_off_default.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\btn_check_off_default.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\player_thumb_normal_w.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\player_thumb_normal_w.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_title_menu_folder.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\ic_title_menu_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_playing_bar_play_pressed.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\ic_playing_bar_play_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\menu_exit_pressed.png",
+        "source": "C:\\Users\\xky\\Desktop\\BNMusic\\app\\src\\main\\res\\drawable-mdpi\\menu_exit_pressed.png"
+    }
+]

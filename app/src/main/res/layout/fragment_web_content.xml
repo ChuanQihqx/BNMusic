@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    android:fadingEdge="vertical"
+    android:scrollbars="none" >
+
+    <LinearLayout
+        android:id="@+id/web_linearlayout_top"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dip"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="80dip"
+            android:orientation="horizontal" >
+
+            <RelativeLayout
+                android:id="@+id/web_relativelayout_music"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginRight="2dip"
+                android:layout_weight="1"
+                android:background="@drawable/web_music_all" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:gravity="center"
+                    android:text="@string/web_song"
+                    android:textColor="@color/white"
+                    android:textSize="20dip"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/web_relativelayout_singer"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginRight="2dip"
+                android:layout_weight="1"
+                android:background="@drawable/web_singer_all" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:gravity="center"
+                    android:text="@string/web_singer"
+                    android:textColor="@color/white"
+                    android:textSize="20dip"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/web_relativelayout_album"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:background="@drawable/web_album_all" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:gravity="center"
+                    android:text="@string/web_album"
+                    android:textColor="@color/white"
+                    android:textSize="20dip"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="40dip"
+            android:layout_marginTop="2dip"
+            android:orientation="horizontal" >
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginRight="2dip"
+                android:layout_weight="1"
+                android:background="@color/gray" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_margin="5dip"
+                    android:gravity="center"
+                    android:text="@string/web_singertop"
+                    android:textColor="@color/white"
+                    android:textSize="24dip" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:background="@color/gray" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_margin="5dip"
+                    android:gravity="center"
+                    android:text="@string/web_albumtop"
+                    android:textColor="@color/white"
+                    android:textSize="24dip" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="120dip"
+            android:layout_marginTop="2dip"
+            android:orientation="horizontal" >
+
+            <RelativeLayout
+                android:id="@+id/web_relativelayout_singertop1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginRight="2dip"
+                android:layout_weight="1"
+                android:background="@color/purple" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_margin="5dip"
+                    android:text="@string/web_singer"
+                    android:textColor="@color/white"
+                    android:textSize="20dip" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/web_relativelayout_albumtop1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:background="@color/yellow" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_margin="5dip"
+                    android:text="@string/web_album"
+                    android:textColor="@color/white"
+                    android:textSize="20dip" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="120dip"
+            android:layout_marginTop="2dip"
+            android:orientation="horizontal" >
+
+            <RelativeLayout
+                android:id="@+id/web_relativelayout_singertop2"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginRight="2dip"
+                android:layout_weight="1"
+                android:background="@color/blue" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_margin="5dip"
+                    android:text="@string/web_singer"
+                    android:textColor="@color/white"
+                    android:textSize="20dip" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/web_relativelayout_albumtop2"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:background="@color/orange" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_margin="5dip"
+                    android:text="@string/web_album"
+                    android:textColor="@color/white"
+                    android:textSize="20dip" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="120dip"
+            android:layout_marginTop="2dip"
+            android:orientation="horizontal" >
+
+            <RelativeLayout
+                android:id="@+id/web_relativelayout_singertop3"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginRight="2dip"
+                android:layout_weight="1"
+                android:background="@color/pink" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_margin="5dip"
+                    android:text="@string/web_singer"
+                    android:textColor="@color/white"
+                    android:textSize="20dip" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/web_relativelayout_albumtop3"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:background="@color/green" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_margin="5dip"
+                    android:text="@string/web_album"
+                    android:textColor="@color/white"
+                    android:textSize="20dip" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="80dip"
+            android:layout_weight="1" >
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>
